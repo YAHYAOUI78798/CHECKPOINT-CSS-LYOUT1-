@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(209, 207, 201);
+}
+.UP {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(182, 182, 182);
+  border: 5px dashed;
+  border-color: rgb(161, 161, 161);
+}
+.home {
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+}
+.help {
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+  color: rgb(114, 114, 114);
+}
+.shopping {
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+  color: rgb(114, 114, 114);
+}
+.text {
+  color: rgb(114, 114, 114);
+}
+.text:hover {
+  color: rgb(27, 26, 26);
+}
+.text2 {
+  color: rgb(114, 114, 114);
+}
+.text2:hover {
+  color: rgb(27, 26, 26);
+}
+.text3 {
+  color: rgb(114, 114, 114);
+}
+.text3:hover {
+  color: rgb(27, 26, 26);
+}
+.Products {
+  margin-top: 2rem;
+  border: 1px solid rgb(161, 161, 161);
+}
+.phone {
+  background-color: rgb(255, 255, 255);
+  border: 5px solid rgb(161, 161, 161);
+  width: 16.5%;
+  height: 16.5%;
+  display: block;
+}
+.prixphone {
+  font-size: 50px;
+}
